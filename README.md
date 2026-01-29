@@ -1,4 +1,4 @@
-# Advanced_Algorithms_Project
+# Advanced_Algorithms_Coursework
 # Assignment Information 
 Module Name: Advanced Algorithms
 
